@@ -19,7 +19,7 @@ This is a simple code editor where user can type code and can see color code hig
 
 ## Setup Instructions
 
-### 1. Install Dependencies
+### Install Dependencies and Run Code:
 Locate to project folder and enter below command:
 
 ```bash
