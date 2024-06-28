@@ -3,7 +3,7 @@ Here's a detailed README file to guide the setup and running of the Simple Code 
 ---
 
 # Simple Code Editor
-This is a simple code editor where user can type code and can see color code highlighted version.
+This is a simple code editor having feature of Automatic Syntax Highlighting
 
 ![ezgif-6-5d3332a595](https://github.com/consolebuddy/Code_Editor_Assignment/assets/36247021/1376b716-4328-49e4-8e03-17dde4574491)
 
