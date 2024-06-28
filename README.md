@@ -26,3 +26,5 @@ Locate to project folder and enter below command:
 npm install
 npm start
 ```
+
+### Now open URL: http://localhost:3000/
